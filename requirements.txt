@@ -1,0 +1,4 @@
+pynput>=1.7.6
+tkinter>=8.6
+pathlib>=1.0.1
+ttkthemes>=3.1.1
