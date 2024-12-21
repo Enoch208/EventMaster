@@ -59,8 +59,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/eventmaster-pro.git
-   cd eventmaster-pro
+   git clone https://github.com/Enoch208/EventMaster.git
+   cd EventMaster
    ```
 
 2. Install the required packages:
