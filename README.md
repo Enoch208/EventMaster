@@ -74,7 +74,7 @@ Make sure you have the following installed:
 To start the application, run this command in your terminal:
 
 ```sh
-python src/main.py
+python main.py
 ```
 
 This will open the EventMaster Pro application, where you can start recording and playing back your input events.
